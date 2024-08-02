@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# Comando de criação
+npx create-next-app@latest frontend
+
+# Executar
+npm run dev
+
+# Instalar dependencias
+npm i
+
+# Icones
+https://lucide.dev/
+https://react-icons.github.io/react-icons/
+npm install react-icons --save
+>>>>>>> 52123ea (feat: criação de componente header com herança para todos as paginas, e botão para aparecer o menu de navegação flutuante)
